@@ -1,11 +1,1 @@
-{
-  "trapChannelId": "1495638003295457391",
-  "logChannelId": "1495647677201907862",
-  "whitelistRoles": ["1115131539940982784"],
-  "spam": {
-    "timeWindow": 5000,
-    "maxMessages": 5,
-    "minChannels": 3,
-    "punishment": "kick"
-  }
-}
+{}

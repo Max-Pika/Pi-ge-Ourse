@@ -1,9 +1,8 @@
 {
   "name": "boreal-bot",
   "version": "1.0.0",
-  "description": "Bot anti-spam BoréalLife",
+  "description": "Bot anti-spam",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },

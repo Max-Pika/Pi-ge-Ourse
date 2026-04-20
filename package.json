@@ -1,7 +1,6 @@
 {
-  "name": "boreal-bot",
+  "name": "piege-a-ourse",
   "version": "1.0.0",
-  "description": "Bot anti-spam",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
